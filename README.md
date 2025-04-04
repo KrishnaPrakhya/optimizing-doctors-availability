@@ -113,21 +113,7 @@ node index.js
 - Appointment management
 - Patient record management
 
-## Security Features
-
-- Secure authentication
-- Encrypted patient data
-- HIPAA compliant data handling
-- Secure video consultations
-
 ## Contributing
 
 Contributions are welcome! Please read our contributing guidelines before submitting pull requests.
 
-## License
-
-[Add your license information here]
-
-## Contact
-
-[Add contact information here]
